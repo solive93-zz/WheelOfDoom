@@ -1,5 +1,5 @@
 # Wheel of Doom (WoD) 
-by solive93, Alejandroacho, 29SebastianHerrera, brunagom3s & TitoRugby95 @ Factoria F5 Bootcamp
+by solive93, Alejandroacho, 29SebastianHerrera, brunagom3s & TitoRugby95
 -
 
 

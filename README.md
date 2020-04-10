@@ -1,10 +1,10 @@
 # Wheel of Doom (WoD) 
-by solive93, Alejandroacho, 29SebastianHerrera, brunagom3s & TitoRugby95
--
+### by solive93, Alejandroacho, 29SebastianHerrera, brunagom3s & TitoRugby95
 
 
-Our very first group project developed in Factoria F5 Bootcamp
--
+
+## Our very first group project developed in Factoria F5 Bootcamp
+
 This WoD project was the first group project we developed in Factoria F5 Bootcamp, mimicking a developers' team working under SCRUM methodology. 
 
 The aim of the WoD is to randomly 'kill' a 'coder'. By *kill* I mean selecting a name from a list of names when the 'kill' button is clicked. And by *coder* I mean one of the students of the Bootcamp. The name selected by the program cannot be repeated until all tha names have already been selected. 

@@ -1,7 +1,4 @@
 # Wheel of Doom (WoD) 
-### by solive93, Alejandroacho, 29SebastianHerrera, brunagom3s & TitoRugby95
-
-
 
 ## Our very first group project developed in Factoria F5 Bootcamp
 
@@ -15,9 +12,8 @@ In the real life, every morning before we start the classes, the WoD will be use
 
 My team and I developed this project in 3 sprints (of 1 week each). On the one hand I'm happy we were one of the 2 teams that managed to finish the project withing the 3 weeks that we had, and the program ran smoothly despite the fact that this was our first project. On the other hand though, the code was too *spahettish* (jeje). I'll try to refactor it. 
 
-Overall, I'm proud of our Wheel of Doom. I personally learnt about Repository Design Pattern, even though I didn't fully understand why to use it until a fer weeks later. We learn how to store data both in a MySQL database and a json file, and gained some experience and understanding of TDD and how to write a unit test. (stored either in a json file or MySQL database).
+Overall, I'm proud of our Wheel of Doom. I personally learnt about Repository Design Pattern, even though I didn't fully understand why to use it until a fer weeks later. We learn how to store data both in a MySQL database and a json file, and gained some experience and understanding of TDD and how to write a unit test. 
 
 **Disclaimer:** The Front End that you'll see in my repo is not the originat one. I decided to re-design and implement my own Front-End.
 
-solive93
--
+### solive93
